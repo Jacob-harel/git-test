@@ -7,6 +7,16 @@ void worldTask() {
 	}
 }
 
+//this an added part for github testing
+void testing()
+{
+   while(1)
+   {
+      printf("this is a test");
+   }
+}
+
+
 void world2Task(int ii)
 {
    int jj
